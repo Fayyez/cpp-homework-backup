@@ -1,5 +1,0 @@
-﻿  22l_7987_fayyez_ass1.cpp
-D:\C++ Homework\oop asignment 1\22l_7987_fayyez_ass1.cpp(60,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\C++ Homework\oop asignment 1\22l_7987_fayyez_ass1.cpp(125,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\C++ Homework\oop asignment 1\22l_7987_fayyez_ass1.cpp(240,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  oop asignment 1.vcxproj -> D:\C++ Homework\oop asignment 1\x64\Debug\oop asignment 1.exe

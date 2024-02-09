@@ -1,4 +1,0 @@
-﻿  22l_7987_fayyez_task3.cpp
-D:\C++ Homework\oop lab 4\22l_7987_fayyez_task3.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-D:\C++ Homework\oop lab 4\date.h(158,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  oop lab 4.vcxproj -> D:\C++ Homework\oop lab 4\x64\Debug\oop lab 4.exe
